@@ -140,6 +140,27 @@
 // console.log(date);
 
 
+// const arr =["ram","sita","hari",46,48,{},true,[]];
+// //counting erray
+// console.log(arr.length);
+// console.log(arr[0]);
+// console.log(arr.pop);
+// arr.push("sita");
+
+// const persons = [
+//     {
+//         name: "ram",age:20
+//     },
+//     {name: "shyam",age:24},
+//     {name: "hari",age: 5}
+// ];
+//     const age=persons.sort((a, b)=>{
+//         return a.age - b.age;
+//     }
+    
+    
+//     );
+// console.log(age);
 
 
 
