@@ -10,4 +10,4 @@
 
 //create function that convert mr sagar ghimire to "Mr Sagar Ghimire";
 
-//
+//use "lodash" package to trim the white apace from " mr sagar ghimire" to "mr Sagar Ghimire"
